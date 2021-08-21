@@ -1,24 +1,29 @@
 {
-  "minecraft": {
-    "version": "1.17.1",
-    "modLoaders": [
-      {
-        "id": "forge-37.0.42",
-        "primary": true
-      }
-    ]
-  },
-  "manifestType": "minecraftModpack",
-  "manifestVersion": 1,
-  "name": "Chekote 1.17.1",
-  "version": "0.1.0",
-  "author": "",
-  "files": [
-    {
-      "projectID": 220318,
-      "fileID": 3432927,
-      "required": true
-    }
-  ],
-  "overrides": "overrides"
+    "minecraft": {
+        "version": "1.17.1",
+        "modLoaders": [
+            {
+                "id": "forge-37.0.42",
+                "primary": true
+            }
+        ]
+    },
+    "manifestType": "minecraftModpack",
+    "manifestVersion": 1,
+    "name": "Chekote 1.17.1",
+    "version": "0.2.0",
+    "author": "",
+    "files": [
+        {
+            "projectID": 32274,
+            "fileID": 3420875,
+            "required": true
+        },
+        {
+            "projectID": 220318,
+            "fileID": 3432927,
+            "required": true
+        }
+    ],
+    "overrides": "overrides"
 }
